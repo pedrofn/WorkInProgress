@@ -33,7 +33,7 @@ chats to be trade messages, but we treat to make by a *spefic mean education*, h
     - Photo
     - Name
 +  POSTS
-    - Then photos how also texts
+    - Photos and texts files
 
 ### TECHNOLOGIES USED ON THIS REPOSITORY 
 
