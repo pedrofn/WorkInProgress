@@ -6,6 +6,8 @@ chats to be trade messages, but we treat to make by a *spefic mean education*, h
 
 **JUST THE FRONT-END PROTOTYPE** ⚠️
 
+![LandingPage] (./img/landing-page-wip.png)
+
 ## Some field the aplication uses 
 
 +  HOME
