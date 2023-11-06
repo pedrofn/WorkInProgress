@@ -19,7 +19,7 @@ chats to be trade messages, but we treat to make by a *spefic mean education*, h
 +  FAVORITES
 +    - Set favorites contents
 +  VESTIBULARS
-    - Those strad that the student user can talk about everthing education mean
+    - A strand the user(student) can talk about everthing education mean
 +  THEME 
     - The user can change the color and font size of the page 
 +  CONFIGURATION 
